@@ -74,7 +74,8 @@ sh: 1: vite: not found
 
 ## 8. Creating Tasks via API
 - Use Postman or curl to POST to `/api/tasks` as shown in the build guide.
-
+## 9. Fixing old Nexjs error
+![alt text](./docs/image.png)
 ---
 
 If you encounter other issues, check logs and ensure all services are running and ports are correct. 
